@@ -1,2 +1,2 @@
-# learn_PHP
-The process of PHP learning
+* This repository is built for someone who wanna learn PHP
+* PHP is the best language for web
